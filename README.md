@@ -5,7 +5,6 @@ Projet de detection d'anomalies sur transactions bancaires avec un autoencodeur 
 ## Contenu
 
 - `Federated_Autoencoder(nour ghribi).ipynb` : notebook principal du projet.
-- `ennonce de projet.pdf` : enonce du projet.
 
 ## Dataset
 
