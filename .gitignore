@@ -1,0 +1,7 @@
+creditcard.csv
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
